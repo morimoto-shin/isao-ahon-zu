@@ -1,0 +1,8 @@
+{
+  "name": "isao-ahon-zu",
+  "version": "1.0.0",
+  "scripts": {
+    "firestore:get:indexes": "firebase firestore:indexes",
+    "firestore:deploy": "firebase deploy --only firestore"
+  }
+}
